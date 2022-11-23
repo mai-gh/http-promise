@@ -1,9 +1,9 @@
 {
   "name": "http-promise",
-  "version": "0",
+  "version": "1.0.0",
   "main": "http-promise.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mai-gh/http-promise.git"
-  },
+  }
 }
