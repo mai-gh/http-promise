@@ -10,6 +10,8 @@ npm install mai-gh/http-promise
 ### Usage
 
 ```JavaScript
+const req = require('http-promise');
+
 const main = async () => {
   const resp = await req({
     method: 'GET',
